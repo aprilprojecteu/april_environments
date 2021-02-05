@@ -45,9 +45,17 @@
     </gui>
 
     <!-- models -->
+
+    <!-- table -->
     <include>
       <pose>0 1.0 0 0 0 0</pose>
       <uri>model://table</uri>
+    </include>
+
+    <!-- object to grasp, a cylinder -->
+    <include>
+      <pose>0 1.0 1.15 0 0 0</pose>
+      <uri>model://cylinder</uri>
     </include>
 
   </world>
