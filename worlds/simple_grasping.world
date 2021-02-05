@@ -33,7 +33,7 @@
 
     <!-- A turtlebot symbol -->
     <include>
-      <uri>model://tablev</uri>
+      <uri>model://table</uri>
     </include>
 
     <scene>
