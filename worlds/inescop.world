@@ -64,5 +64,11 @@
       <uri>model://insole</uri>
     </include>-->
 
+    <!-- bag dispenser table -->
+    <include>
+      <pose>0 1.5 0 0 0 1.57</pose>
+      <uri>model://table</uri>
+    </include>
+
   </world>
 </sdf>
