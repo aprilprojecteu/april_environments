@@ -7,7 +7,7 @@
 
     <!-- A ground plane -->
     <include>
-      <uri>model://ground_plane</uri>
+      <uri>model://april_ground_plane</uri>
     </include>
 
     <physics type="ode">
