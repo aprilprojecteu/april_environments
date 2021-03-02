@@ -70,5 +70,11 @@
       <uri>model://table</uri>
     </include>
 
+    <!-- human worker standing in front of bag dispenser -->
+    <include>
+      <pose>0 2.8 0 0 0 0</pose>
+      <uri>model://person_standing</uri>
+    </include>
+
   </world>
 </sdf>
