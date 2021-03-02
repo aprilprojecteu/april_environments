@@ -41,6 +41,39 @@
           </mesh>
         </geometry>
       </visual>
+
+      <visual name="left_shoe">
+        <pose>0.127247 -0.10888199999999992 0.051576 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.107316 0.298547 0.087956</size>
+          </box>
+        </geometry>
+        <!-- dark blue -->
+        <material>
+          <ambient>0.1 0.1 0.1 1</ambient>
+          <diffuse>0.1 0.1 0.2 1</diffuse>
+          <specular>0 0 0 0</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+
+      <visual name="right_shoe">
+        <pose>-0.122268 -0.10888199999999992 0.051576 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.107316 0.298547 0.087956</size>
+          </box>
+        </geometry>
+        <!-- dark blue -->
+        <material>
+          <ambient>0.1 0.1 0.1 1</ambient>
+          <diffuse>0.1 0.1 0.2 1</diffuse>
+          <specular>0 0 0 0</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+
     </link>
   </model>
 </sdf>
