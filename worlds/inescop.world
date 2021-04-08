@@ -49,13 +49,13 @@
 
     <!-- conveyor a, insoles are coming from this conveyor -->
     <include>
-      <pose>0 0.95 0.5 0 0 0</pose>
+      <pose>-0.35 0.95 0.5 0 0 0</pose>
       <uri>model://conveyor_belt/conveyor_belt_a</uri>
     </include>
 
     <!-- conveyor b, insoles are on their way to the sealing machine -->
     <include>
-      <pose>0 2.3 0.5 0 0 3.14159</pose>
+      <pose>0.35 2.3 0.5 0 0 3.14159</pose>
       <uri>model://conveyor_belt/conveyor_belt_b</uri>
     </include>
 
@@ -67,7 +67,7 @@
 
     <!-- bag dispenser table -->
     <include>
-      <pose>0 1.5 0 0 0 1.57</pose>
+      <pose>0 1.2 0 0 0 1.57</pose>
       <uri>model://table</uri>
     </include>
 
