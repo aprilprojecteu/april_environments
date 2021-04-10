@@ -53,11 +53,11 @@
       <uri>model://table</uri>
     </include>
 
-    <!-- object to grasp, a cylinder -->
-    <include>
+    <!-- object to grasp, a cylinder, spawn via launch file! -->
+    <!--<include>
       <pose>0 0.7 1.15 0 0 0</pose>
       <uri>model://cylinder</uri>
-    </include>
+    </include>-->
 
   </world>
 </sdf>
