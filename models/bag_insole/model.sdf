@@ -13,7 +13,7 @@
         </inertia>
         <mass>0.2</mass>
       </inertial>
-      <visual name='insole_visual'>
+      <visual name='bag_insole_visual'>
         <pose frame=''>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
@@ -28,7 +28,7 @@
           </script>
         </material>
       </visual>
-      <collision name='insole_collision'>
+      <collision name='bag_insole_collision'>
         <pose frame=''>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
