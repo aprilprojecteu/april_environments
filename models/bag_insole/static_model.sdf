@@ -11,7 +11,7 @@
           <ixz>0</ixz>
           <iyz>0</iyz>
         </inertia>
-        <mass>0.2</mass>
+        <mass>2</mass>
       </inertial>
       <visual name='bag_insole_visual'>
         <pose frame=''>0 0 0 0 0 0</pose>
